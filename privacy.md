@@ -76,7 +76,8 @@ at the latest 30 minutes after its last update or 12 hours after it was made.
 
 MapTunes is a subscription with a free trial; Apple handles payment, the trial (one per Apple ID), renewal and cancellation. To check
 whether your subscription is active, the app uses **RevenueCat**, which receives the random install number and Apple's purchase
-receipt: no name, no email, no location. We do not receive your payment details.
+receipt: no name, no email, no location. Your purchase history is therefore **linked to that random install number** (the App Store
+privacy label says so). We do not receive your payment details.
 
 ## Crash reports
 
